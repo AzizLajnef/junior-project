@@ -1,4 +1,3 @@
-
 const Recipe = require('../mongodb/Recipe')
 exports.getAllRecipes = async (req, res) => {
   try {
